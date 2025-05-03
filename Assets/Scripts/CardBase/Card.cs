@@ -12,7 +12,7 @@ public enum CardType { Unit, Spell, Equipment, Field }
 public enum CardTag {  }
 
 /// <summary>
-/// 
+/// 卡牌基类
 /// </summary>
 public class Card : ScriptableObject
 {
